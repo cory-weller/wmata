@@ -1,10 +1,14 @@
 # README
 I was annoyed at the WMATA fare lookup format so I made this to
-calculate station-to-station fares for all pairs and output a
-single table.
+calculate fares for all combinations between a destination and
+all other stations.
 
 # Output
-
+Tabular output of
+1. Starting Station
+2. Destination Station
+3. Distance (miles)
+4. Fare (US Dollars)
 
 # How to use
 Making calls to the WMATA API requires a developer token.
@@ -30,7 +34,7 @@ API calls are intentionally slowed to avoid caps implemented by WMATA.
 
 ```bash
 # Get info for a single station
-python3 get-trip-info.py 'North Bethesda' > north-bethesda.tsv &
+python3 get-trip-info.py 'North Bethesda' > north_bethesda.tsv &
 
 # Get info for all stations (will take a while)
 readarray -t station_names < station-names.txt
