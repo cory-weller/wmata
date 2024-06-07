@@ -38,7 +38,7 @@ indicated in [`station-names.txt`](station-names.txt).
 
 API calls are intentionally slowed to avoid caps implemented by WMATA.
 
-Output table file names are in the format of `<starting station>.tsv`, with spaces or `/` characters replaced with `-`. For example, running the script with `'Woodley Park-Zoo/Adams Morgan'` saves `Woodley-Park-Zoo-Adams-Morgan.tsv`
+Individual station file names are in the format of `<starting station>.tsv`, with spaces or `/` characters replaced with `-`. For example, running the script with `'Woodley Park-Zoo/Adams Morgan'` saves `Woodley-Park-Zoo-Adams-Morgan.tsv`
 
 ```bash
 # Get info for a single station
@@ -48,6 +48,6 @@ python3 get-trip-info.py North Bethesda
 python3 get-trip-info.py King St-Old Town
 
 # Get all stations (will be a while...)
-bash get-all-trips.sh
+bash get-all-trips.sh && 
 ```
 
