@@ -1,22 +1,13 @@
-# README
+# All Fares Table
+
+See [here](all-trips.tsv).
+
+
+# Why?
 I was annoyed at the WMATA fare lookup format so I made this to
-calculate fares for all combinations between a starting station and
-all other stations.
+calculate fares for all combinations between a starting station and all other stations.
 
-# Output
-Tabular output of
-1. Starting Station
-2. Destination Station
-3. Distance (miles)
-4. Fare (US Dollars)
-
-Examples:
-- [Metro Center](Metro-Center.tsv)
-- [L'Enfant Plaza](LEnfant-Plaza.tsv)
-- [North Bethesda](North-Bethesda.tsv)
-- [King St-Old Town](King-St-Old-Town.tsv)
-
-# How to use
+# How do?
 Making calls to the WMATA API requires a developer token.
 Sign up [here](https://developer.wmata.com/) and save the token to a text file named `wmata-token.txt` as it's used by `curl` and by the `python` script.
 
