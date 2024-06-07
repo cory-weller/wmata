@@ -1,0 +1,98 @@
+Start	Destination	Distance_mi	Fare_USD
+NoMa-Gallaudet U	Metro Center	1.72	2.00
+NoMa-Gallaudet U	Farragut North	2.37	2.00
+NoMa-Gallaudet U	Dupont Circle	2.73	2.00
+NoMa-Gallaudet U	Woodley Park-Zoo/Adams Morgan	3.72	2.30
+NoMa-Gallaudet U	Cleveland Park	4.36	2.55
+NoMa-Gallaudet U	Van Ness-UDC	4.95	2.80
+NoMa-Gallaudet U	Tenleytown-AU	5.98	3.20
+NoMa-Gallaudet U	Friendship Heights	6.70	3.50
+NoMa-Gallaudet U	Bethesda	8.30	4.10
+NoMa-Gallaudet U	Medical Center	9.27	4.50
+NoMa-Gallaudet U	Grosvenor-Strathmore	11.39	5.35
+NoMa-Gallaudet U	North Bethesda	12.76	5.90
+NoMa-Gallaudet U	Twinbrook	13.85	6.00
+NoMa-Gallaudet U	Rockville	15.84	6.00
+NoMa-Gallaudet U	Shady Grove	18.49	6.00
+NoMa-Gallaudet U	Gallery Pl-Chinatown	1.44	2.00
+NoMa-Gallaudet U	Judiciary Square	1.17	2.00
+NoMa-Gallaudet U	Union Station	0.67	2.00
+NoMa-Gallaudet U	Rhode Island Ave-Brentwood	1.07	2.00
+NoMa-Gallaudet U	Brookland-CUA	1.91	2.00
+NoMa-Gallaudet U	Fort Totten	3.21	2.10
+NoMa-Gallaudet U	Takoma	5.02	2.80
+NoMa-Gallaudet U	Silver Spring	6.40	3.35
+NoMa-Gallaudet U	Forest Glen	8.03	4.00
+NoMa-Gallaudet U	Wheaton	9.64	4.65
+NoMa-Gallaudet U	Glenmont	11.35	5.35
+NoMa-Gallaudet U	McPherson Square	2.05	2.00
+NoMa-Gallaudet U	Farragut West	2.42	2.00
+NoMa-Gallaudet U	Foggy Bottom-GWU	2.95	2.00
+NoMa-Gallaudet U	Rosslyn	4.19	2.50
+NoMa-Gallaudet U	Arlington Cemetery	4.58	2.65
+NoMa-Gallaudet U	Pentagon	4.35	2.55
+NoMa-Gallaudet U	Pentagon City	4.93	2.75
+NoMa-Gallaudet U	Crystal City	5.24	2.90
+NoMa-Gallaudet U	Ronald Reagan Washington National Airport	5.55	3.00
+NoMa-Gallaudet U	Potomac Yard	7.01	3.60
+NoMa-Gallaudet U	Braddock Road	8.40	4.15
+NoMa-Gallaudet U	King St-Old Town	9.05	4.40
+NoMa-Gallaudet U	Eisenhower Avenue	9.71	4.70
+NoMa-Gallaudet U	Huntington	10.23	4.90
+NoMa-Gallaudet U	Federal Triangle	1.94	2.00
+NoMa-Gallaudet U	Smithsonian	2.25	2.00
+NoMa-Gallaudet U	L'Enfant Plaza	2.20	2.00
+NoMa-Gallaudet U	Federal Center SW	2.29	2.00
+NoMa-Gallaudet U	Capitol South	2.50	2.00
+NoMa-Gallaudet U	Eastern Market	2.80	2.00
+NoMa-Gallaudet U	Potomac Ave	3.32	2.15
+NoMa-Gallaudet U	Stadium-Armory	3.66	2.25
+NoMa-Gallaudet U	Minnesota Ave	5.28	2.90
+NoMa-Gallaudet U	Deanwood	6.01	3.20
+NoMa-Gallaudet U	Cheverly	7.12	3.65
+NoMa-Gallaudet U	Landover	8.83	4.35
+NoMa-Gallaudet U	New Carrollton	10.21	4.90
+NoMa-Gallaudet U	Mt Vernon Sq 7th St-Convention Center	1.63	2.00
+NoMa-Gallaudet U	Shaw-Howard U	1.92	2.00
+NoMa-Gallaudet U	U Street/African-Amer Civil War Memorial/Cardozo	2.35	2.00
+NoMa-Gallaudet U	Columbia Heights	3.12	2.05
+NoMa-Gallaudet U	Georgia Ave-Petworth	3.63	2.25
+NoMa-Gallaudet U	West Hyattsville	4.54	2.60
+NoMa-Gallaudet U	Hyattsville Crossing	5.65	3.05
+NoMa-Gallaudet U	College Park-U of Md	7.44	3.80
+NoMa-Gallaudet U	Greenbelt	9.85	4.75
+NoMa-Gallaudet U	Archives-Navy Memorial-Penn Quarter	1.71	2.00
+NoMa-Gallaudet U	Waterfront	2.81	2.00
+NoMa-Gallaudet U	Navy Yard-Ballpark	3.06	2.00
+NoMa-Gallaudet U	Anacostia	4.11	2.45
+NoMa-Gallaudet U	Congress Heights	5.39	2.95
+NoMa-Gallaudet U	Southern Avenue	6.17	3.25
+NoMa-Gallaudet U	Naylor Road	6.70	3.50
+NoMa-Gallaudet U	Suitland	7.99	4.00
+NoMa-Gallaudet U	Branch Ave	9.69	4.70
+NoMa-Gallaudet U	Benning Road	5.78	3.10
+NoMa-Gallaudet U	Capitol Heights	7.22	3.70
+NoMa-Gallaudet U	Addison Road-Seat Pleasant	8.20	4.10
+NoMa-Gallaudet U	Morgan Boulevard	9.63	4.65
+NoMa-Gallaudet U	Downtown Largo	10.92	5.15
+NoMa-Gallaudet U	Van Dorn Street	12.20	5.70
+NoMa-Gallaudet U	Franconia-Springfield	15.51	6.00
+NoMa-Gallaudet U	Court House	5.21	2.90
+NoMa-Gallaudet U	Clarendon	5.71	3.10
+NoMa-Gallaudet U	Virginia Square-GMU	6.17	3.25
+NoMa-Gallaudet U	Ballston-MU	6.73	3.50
+NoMa-Gallaudet U	East Falls Church	9.10	4.45
+NoMa-Gallaudet U	West Falls Church	10.95	5.20
+NoMa-Gallaudet U	Dunn Loring-Merrifield	13.22	6.00
+NoMa-Gallaudet U	Vienna/Fairfax-GMU	15.70	6.00
+NoMa-Gallaudet U	McLean	12.85	5.95
+NoMa-Gallaudet U	Tysons	13.46	6.00
+NoMa-Gallaudet U	Greensboro	14.17	6.00
+NoMa-Gallaudet U	Spring Hill	14.75	6.00
+NoMa-Gallaudet U	Wiehle-Reston East	20.38	6.00
+NoMa-Gallaudet U	Reston Town Center	21.50	6.00
+NoMa-Gallaudet U	Herndon	22.84	6.00
+NoMa-Gallaudet U	Innovation Center	24.55	6.00
+NoMa-Gallaudet U	Washington Dulles International Airport	26.44	6.00
+NoMa-Gallaudet U	Loudoun Gateway	28.44	6.00
+NoMa-Gallaudet U	Ashburn	30.33	6.00

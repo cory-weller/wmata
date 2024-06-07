@@ -1,0 +1,98 @@
+Start	Destination	Distance_mi	Fare_USD
+Van Ness-UDC	Metro Center	3.73	2.30
+Van Ness-UDC	Farragut North	3.04	2.00
+Van Ness-UDC	Dupont Circle	2.53	2.00
+Van Ness-UDC	Woodley Park-Zoo/Adams Morgan	1.34	2.00
+Van Ness-UDC	Cleveland Park	0.63	2.00
+Van Ness-UDC	Tenleytown-AU	1.04	2.00
+Van Ness-UDC	Friendship Heights	1.76	2.00
+Van Ness-UDC	Bethesda	3.41	2.15
+Van Ness-UDC	Medical Center	4.43	2.55
+Van Ness-UDC	Grosvenor-Strathmore	6.63	3.45
+Van Ness-UDC	North Bethesda	8.02	4.00
+Van Ness-UDC	Twinbrook	9.11	4.45
+Van Ness-UDC	Rockville	11.06	5.20
+Van Ness-UDC	Shady Grove	13.72	6.00
+Van Ness-UDC	Gallery Pl-Chinatown	3.95	2.40
+Van Ness-UDC	Judiciary Square	4.29	2.50
+Van Ness-UDC	Union Station	4.74	2.70
+Van Ness-UDC	Rhode Island Ave-Brentwood	5.41	2.95
+Van Ness-UDC	Brookland-CUA	5.75	3.10
+Van Ness-UDC	Fort Totten	6.15	3.25
+Van Ness-UDC	Takoma	7.11	3.65
+Van Ness-UDC	Silver Spring	8.11	4.05
+Van Ness-UDC	Forest Glen	9.54	4.60
+Van Ness-UDC	Wheaton	11.08	5.25
+Van Ness-UDC	Glenmont	12.79	5.90
+Van Ness-UDC	NoMa-Gallaudet U	4.95	2.80
+Van Ness-UDC	McPherson Square	3.79	2.30
+Van Ness-UDC	Farragut West	3.90	2.35
+Van Ness-UDC	Foggy Bottom-GWU	4.10	2.45
+Van Ness-UDC	Rosslyn	4.90	2.75
+Van Ness-UDC	Arlington Cemetery	5.75	3.10
+Van Ness-UDC	Pentagon	6.23	3.30
+Van Ness-UDC	Pentagon City	6.78	3.50
+Van Ness-UDC	Crystal City	7.29	3.70
+Van Ness-UDC	Ronald Reagan Washington National Airport	7.74	3.90
+Van Ness-UDC	Potomac Yard	9.24	4.50
+Van Ness-UDC	Braddock Road	10.59	5.05
+Van Ness-UDC	King St-Old Town	11.17	5.25
+Van Ness-UDC	Eisenhower Avenue	11.75	5.50
+Van Ness-UDC	Huntington	12.24	5.70
+Van Ness-UDC	Federal Triangle	4.01	2.40
+Van Ness-UDC	Smithsonian	4.36	2.55
+Van Ness-UDC	L'Enfant Plaza	4.80	2.70
+Van Ness-UDC	Federal Center SW	5.04	2.80
+Van Ness-UDC	Capitol South	5.50	3.00
+Van Ness-UDC	Eastern Market	5.92	3.15
+Van Ness-UDC	Potomac Ave	6.51	3.40
+Van Ness-UDC	Stadium-Armory	6.90	3.55
+Van Ness-UDC	Minnesota Ave	8.41	4.15
+Van Ness-UDC	Deanwood	9.02	4.40
+Van Ness-UDC	Cheverly	10.00	4.80
+Van Ness-UDC	Landover	11.50	5.40
+Van Ness-UDC	New Carrollton	12.74	5.90
+Van Ness-UDC	Mt Vernon Sq 7th St-Convention Center	4.02	2.40
+Van Ness-UDC	Shaw-Howard U	4.09	2.45
+Van Ness-UDC	U Street/African-Amer Civil War Memorial/Cardozo	4.13	2.45
+Van Ness-UDC	Columbia Heights	4.25	2.50
+Van Ness-UDC	Georgia Ave-Petworth	4.80	2.70
+Van Ness-UDC	West Hyattsville	8.04	4.00
+Van Ness-UDC	Hyattsville Crossing	9.09	4.45
+Van Ness-UDC	College Park-U of Md	10.93	5.15
+Van Ness-UDC	Greenbelt	13.05	6.00
+Van Ness-UDC	Archives-Navy Memorial-Penn Quarter	4.28	2.50
+Van Ness-UDC	Waterfront	5.51	3.00
+Van Ness-UDC	Navy Yard-Ballpark	5.98	3.20
+Van Ness-UDC	Anacostia	7.10	3.65
+Van Ness-UDC	Congress Heights	8.37	4.15
+Van Ness-UDC	Southern Avenue	9.22	4.50
+Van Ness-UDC	Naylor Road	9.88	4.75
+Van Ness-UDC	Suitland	11.21	5.30
+Van Ness-UDC	Branch Ave	12.91	5.95
+Van Ness-UDC	Benning Road	8.95	4.40
+Van Ness-UDC	Capitol Heights	10.36	4.95
+Van Ness-UDC	Addison Road-Seat Pleasant	11.33	5.35
+Van Ness-UDC	Morgan Boulevard	12.67	5.85
+Van Ness-UDC	Downtown Largo	13.90	6.00
+Van Ness-UDC	Van Dorn Street	13.65	6.00
+Van Ness-UDC	Franconia-Springfield	16.87	6.00
+Van Ness-UDC	Court House	5.75	3.10
+Van Ness-UDC	Clarendon	6.20	3.30
+Van Ness-UDC	Virginia Square-GMU	6.62	3.45
+Van Ness-UDC	Ballston-MU	7.08	3.65
+Van Ness-UDC	East Falls Church	9.03	4.40
+Van Ness-UDC	West Falls Church	10.56	5.00
+Van Ness-UDC	Dunn Loring-Merrifield	12.94	6.00
+Van Ness-UDC	Vienna/Fairfax-GMU	15.39	6.00
+Van Ness-UDC	McLean	12.18	5.65
+Van Ness-UDC	Tysons	12.83	5.95
+Van Ness-UDC	Greensboro	13.53	6.00
+Van Ness-UDC	Spring Hill	14.04	6.00
+Van Ness-UDC	Wiehle-Reston East	19.59	6.00
+Van Ness-UDC	Reston Town Center	20.70	6.00
+Van Ness-UDC	Herndon	22.04	6.00
+Van Ness-UDC	Innovation Center	23.73	6.00
+Van Ness-UDC	Washington Dulles International Airport	25.65	6.00
+Van Ness-UDC	Loudoun Gateway	27.54	6.00
+Van Ness-UDC	Ashburn	29.41	6.00

@@ -1,0 +1,98 @@
+Start	Destination	Distance_mi	Fare_USD
+Smithsonian	Metro Center	0.67	2.00
+Smithsonian	Farragut North	1.32	2.00
+Smithsonian	Dupont Circle	1.83	2.00
+Smithsonian	Woodley Park-Zoo/Adams Morgan	3.02	2.00
+Smithsonian	Cleveland Park	3.73	2.30
+Smithsonian	Van Ness-UDC	4.36	2.55
+Smithsonian	Tenleytown-AU	5.30	2.90
+Smithsonian	Friendship Heights	6.08	3.25
+Smithsonian	Bethesda	7.77	3.90
+Smithsonian	Medical Center	8.79	4.30
+Smithsonian	Grosvenor-Strathmore	10.98	5.20
+Smithsonian	North Bethesda	12.37	5.75
+Smithsonian	Twinbrook	13.46	6.00
+Smithsonian	Rockville	15.41	6.00
+Smithsonian	Shady Grove	18.08	6.00
+Smithsonian	Gallery Pl-Chinatown	0.86	2.00
+Smithsonian	Judiciary Square	1.08	2.00
+Smithsonian	Union Station	1.64	2.00
+Smithsonian	Rhode Island Ave-Brentwood	3.29	2.10
+Smithsonian	Brookland-CUA	4.09	2.45
+Smithsonian	Fort Totten	5.22	2.90
+Smithsonian	Takoma	6.92	3.55
+Smithsonian	Silver Spring	8.22	4.10
+Smithsonian	Forest Glen	9.81	4.70
+Smithsonian	Wheaton	11.41	5.35
+Smithsonian	Glenmont	13.13	6.00
+Smithsonian	NoMa-Gallaudet U	2.25	2.00
+Smithsonian	McPherson Square	1.03	2.00
+Smithsonian	Farragut West	1.30	2.00
+Smithsonian	Foggy Bottom-GWU	1.73	2.00
+Smithsonian	Rosslyn	2.85	2.00
+Smithsonian	Arlington Cemetery	3.01	2.00
+Smithsonian	Pentagon	2.36	2.00
+Smithsonian	Pentagon City	2.95	2.00
+Smithsonian	Crystal City	3.29	2.10
+Smithsonian	Ronald Reagan Washington National Airport	3.63	2.25
+Smithsonian	Potomac Yard	5.13	2.85
+Smithsonian	Braddock Road	6.53	3.40
+Smithsonian	King St-Old Town	7.16	3.65
+Smithsonian	Eisenhower Avenue	7.81	3.90
+Smithsonian	Huntington	8.32	4.15
+Smithsonian	Federal Triangle	0.38	2.00
+Smithsonian	L'Enfant Plaza	0.46	2.00
+Smithsonian	Federal Center SW	0.78	2.00
+Smithsonian	Capitol South	1.34	2.00
+Smithsonian	Eastern Market	1.85	2.00
+Smithsonian	Potomac Ave	2.46	2.00
+Smithsonian	Stadium-Armory	3.01	2.00
+Smithsonian	Minnesota Ave	4.91	2.75
+Smithsonian	Deanwood	5.73	3.10
+Smithsonian	Cheverly	6.87	3.55
+Smithsonian	Landover	8.63	4.25
+Smithsonian	New Carrollton	10.04	4.80
+Smithsonian	Mt Vernon Sq 7th St-Convention Center	1.41	2.00
+Smithsonian	Shaw-Howard U	1.89	2.00
+Smithsonian	U Street/African-Amer Civil War Memorial/Cardozo	2.23	2.00
+Smithsonian	Columbia Heights	3.04	2.00
+Smithsonian	Georgia Ave-Petworth	3.83	2.35
+Smithsonian	West Hyattsville	6.72	3.50
+Smithsonian	Hyattsville Crossing	7.84	3.95
+Smithsonian	College Park-U of Md	9.64	4.65
+Smithsonian	Greenbelt	12.04	5.60
+Smithsonian	Archives-Navy Memorial-Penn Quarter	0.77	2.00
+Smithsonian	Waterfront	1.15	2.00
+Smithsonian	Navy Yard-Ballpark	1.70	2.00
+Smithsonian	Anacostia	2.79	2.00
+Smithsonian	Congress Heights	4.03	2.40
+Smithsonian	Southern Avenue	4.90	2.75
+Smithsonian	Naylor Road	5.68	3.05
+Smithsonian	Suitland	7.06	3.60
+Smithsonian	Branch Ave	8.74	4.30
+Smithsonian	Benning Road	5.32	2.95
+Smithsonian	Capitol Heights	6.78	3.50
+Smithsonian	Addison Road-Seat Pleasant	7.75	3.90
+Smithsonian	Morgan Boulevard	9.23	4.50
+Smithsonian	Downtown Largo	10.56	5.00
+Smithsonian	Van Dorn Street	10.23	4.90
+Smithsonian	Franconia-Springfield	13.54	6.00
+Smithsonian	Court House	3.81	2.30
+Smithsonian	Clarendon	4.29	2.50
+Smithsonian	Virginia Square-GMU	4.73	2.70
+Smithsonian	Ballston-MU	5.29	2.90
+Smithsonian	East Falls Church	7.71	3.90
+Smithsonian	West Falls Church	9.63	4.65
+Smithsonian	Dunn Loring-Merrifield	11.84	5.55
+Smithsonian	Vienna/Fairfax-GMU	14.31	6.00
+Smithsonian	McLean	11.64	5.45
+Smithsonian	Tysons	12.22	5.70
+Smithsonian	Greensboro	12.93	5.95
+Smithsonian	Spring Hill	13.54	6.00
+Smithsonian	Wiehle-Reston East	19.19	6.00
+Smithsonian	Reston Town Center	20.31	6.00
+Smithsonian	Herndon	21.64	6.00
+Smithsonian	Innovation Center	23.36	6.00
+Smithsonian	Washington Dulles International Airport	25.23	6.00
+Smithsonian	Loudoun Gateway	27.30	6.00
+Smithsonian	Ashburn	29.20	6.00

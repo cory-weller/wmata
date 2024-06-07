@@ -1,0 +1,98 @@
+Start	Destination	Distance_mi	Fare_USD
+Ballston-MU	Metro Center	5.02	2.80
+Ballston-MU	Farragut North	5.16	2.85
+Ballston-MU	Dupont Circle	5.42	2.95
+Ballston-MU	Woodley Park-Zoo/Adams Morgan	6.12	3.25
+Ballston-MU	Cleveland Park	6.61	3.45
+Ballston-MU	Van Ness-UDC	7.08	3.65
+Ballston-MU	Tenleytown-AU	7.60	3.85
+Ballston-MU	Friendship Heights	8.29	4.10
+Ballston-MU	Bethesda	9.90	4.75
+Ballston-MU	Medical Center	10.93	5.15
+Ballston-MU	Grosvenor-Strathmore	13.12	6.00
+Ballston-MU	North Bethesda	14.45	6.00
+Ballston-MU	Twinbrook	15.50	6.00
+Ballston-MU	Rockville	17.30	6.00
+Ballston-MU	Shady Grove	19.93	6.00
+Ballston-MU	Gallery Pl-Chinatown	5.30	2.90
+Ballston-MU	Judiciary Square	5.63	3.05
+Ballston-MU	Union Station	6.21	3.30
+Ballston-MU	Rhode Island Ave-Brentwood	7.62	3.85
+Ballston-MU	Brookland-CUA	8.27	4.10
+Ballston-MU	Fort Totten	9.07	4.45
+Ballston-MU	Takoma	10.33	4.95
+Ballston-MU	Silver Spring	11.35	5.35
+Ballston-MU	Forest Glen	12.71	5.90
+Ballston-MU	Wheaton	14.18	6.00
+Ballston-MU	Glenmont	15.84	6.00
+Ballston-MU	NoMa-Gallaudet U	6.73	3.50
+Ballston-MU	McPherson Square	4.68	2.65
+Ballston-MU	Farragut West	4.31	2.50
+Ballston-MU	Foggy Bottom-GWU	3.80	2.30
+Ballston-MU	Rosslyn	2.55	2.00
+Ballston-MU	Arlington Cemetery	3.14	2.05
+Ballston-MU	Pentagon	4.11	2.45
+Ballston-MU	Pentagon City	4.36	2.55
+Ballston-MU	Crystal City	5.01	2.80
+Ballston-MU	Ronald Reagan Washington National Airport	5.51	3.00
+Ballston-MU	Potomac Yard	6.68	3.45
+Ballston-MU	Braddock Road	7.77	3.90
+Ballston-MU	King St-Old Town	8.21	4.10
+Ballston-MU	Eisenhower Avenue	8.64	4.25
+Ballston-MU	Huntington	9.08	4.45
+Ballston-MU	Federal Triangle	5.14	2.85
+Ballston-MU	Smithsonian	5.29	2.90
+Ballston-MU	L'Enfant Plaza	5.71	3.10
+Ballston-MU	Federal Center SW	6.04	3.20
+Ballston-MU	Capitol South	6.62	3.45
+Ballston-MU	Eastern Market	7.12	3.65
+Ballston-MU	Potomac Ave	7.71	3.90
+Ballston-MU	Stadium-Armory	8.30	4.10
+Ballston-MU	Minnesota Ave	10.20	4.90
+Ballston-MU	Deanwood	11.00	5.20
+Ballston-MU	Cheverly	12.13	5.65
+Ballston-MU	Landover	13.85	6.00
+Ballston-MU	New Carrollton	15.23	6.00
+Ballston-MU	Mt Vernon Sq 7th St-Convention Center	5.69	3.10
+Ballston-MU	Shaw-Howard U	6.01	3.20
+Ballston-MU	U Street/African-Amer Civil War Memorial/Cardozo	6.17	3.25
+Ballston-MU	Columbia Heights	6.69	3.50
+Ballston-MU	Georgia Ave-Petworth	7.54	3.80
+Ballston-MU	West Hyattsville	10.86	5.15
+Ballston-MU	Hyattsville Crossing	11.98	5.60
+Ballston-MU	College Park-U of Md	13.84	6.00
+Ballston-MU	Greenbelt	16.11	6.00
+Ballston-MU	Archives-Navy Memorial-Penn Quarter	5.47	3.00
+Ballston-MU	Waterfront	6.23	3.30
+Ballston-MU	Navy Yard-Ballpark	6.86	3.55
+Ballston-MU	Anacostia	7.79	3.90
+Ballston-MU	Congress Heights	8.79	4.30
+Ballston-MU	Southern Avenue	9.71	4.70
+Ballston-MU	Naylor Road	10.71	5.10
+Ballston-MU	Suitland	12.11	5.65
+Ballston-MU	Branch Ave	13.69	6.00
+Ballston-MU	Benning Road	10.61	5.05
+Ballston-MU	Capitol Heights	12.07	5.65
+Ballston-MU	Addison Road-Seat Pleasant	13.03	6.00
+Ballston-MU	Morgan Boulevard	14.52	6.00
+Ballston-MU	Downtown Largo	15.85	6.00
+Ballston-MU	Van Dorn Street	10.06	4.80
+Ballston-MU	Franconia-Springfield	13.19	6.00
+Ballston-MU	Court House	1.53	2.00
+Ballston-MU	Clarendon	1.02	2.00
+Ballston-MU	Virginia Square-GMU	0.56	2.00
+Ballston-MU	East Falls Church	2.43	2.00
+Ballston-MU	West Falls Church	4.43	2.55
+Ballston-MU	Dunn Loring-Merrifield	6.55	3.40
+Ballston-MU	Vienna/Fairfax-GMU	9.02	4.40
+Ballston-MU	McLean	6.58	3.45
+Ballston-MU	Tysons	7.11	3.65
+Ballston-MU	Greensboro	7.80	3.90
+Ballston-MU	Spring Hill	8.45	4.20
+Ballston-MU	Wiehle-Reston East	14.07	6.00
+Ballston-MU	Reston Town Center	15.19	6.00
+Ballston-MU	Herndon	16.50	6.00
+Ballston-MU	Innovation Center	18.22	6.00
+Ballston-MU	Washington Dulles International Airport	20.06	6.00
+Ballston-MU	Loudoun Gateway	22.22	6.00
+Ballston-MU	Ashburn	24.14	6.00

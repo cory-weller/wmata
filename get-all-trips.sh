@@ -98,3 +98,6 @@ python3 get-trip-info.py "Innovation Center"
 python3 get-trip-info.py "Washington Dulles International Airport"
 python3 get-trip-info.py "Loudoun Gateway"
 python3 get-trip-info.py "Ashburn"
+
+cat *.tsv | sort -nk 1,2 > all-trips.tsv.tmp && \
+rm *.tsv && mv all-trips.tsv.tmp all-trips.tsv
