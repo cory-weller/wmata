@@ -10,7 +10,11 @@ Tabular output of
 3. Distance (miles)
 4. Fare (US Dollars)
 
-Example for [North Bethesda](North-Bethesda.tsv)
+Examples:
+- [Metro Center](Metro-Center.tsv)
+- [L'Enfant Plaza](LEnfant-Plaza.tsv)
+- [North Bethesda](North-Bethesda.tsv)
+- [King St-Old Town](King-St-Old-Town.tsv)
 
 # How to use
 Making calls to the WMATA API requires a developer token.
@@ -38,14 +42,12 @@ Output table file names are in the format of `<starting station>.tsv`, with spac
 
 ```bash
 # Get info for a single station
-python3 get-trip-info.py 'North Bethesda' 
+python3 get-trip-info.py Metro Center
+python3 get-trip-info.py "L'Enfant Plaza"   # Note quote requirement
+python3 get-trip-info.py North Bethesda
+python3 get-trip-info.py King St-Old Town
 
-# Get info for all stations (will take a while)
-readarray -t station_names < station-names.txt
-for station in ${station_names[@]}; do
-    python3 get-trip-info.py $station
-done
+# Get all stations (will be a while...)
+bash get-all-trips.sh
 ```
-
-
 

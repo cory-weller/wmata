@@ -38,6 +38,7 @@ stations = xmltodict.parse(xml_data)['StationsResp']['Stations']['Station']
 
 def sanitize(name):
     name = name.replace('/', '-')
+    name = name.replace("'", '')
     name = name.replace(' ', '-')
     return(name)
 
