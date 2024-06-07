@@ -13,7 +13,7 @@ Sign up [here](https://developer.wmata.com/) and save the token to a text file n
 First we need to retrieve all station ID information in `xml` format to
 get the alphanumeric station codes used for API calls.
 ```bash
-mykey=$(cat wmata-token.txt)
+wmatatoken=$(cat wmata-token.txt)
 curl -v -X GET "https://api.wmata.com/Rail.svc/Stations?" \
     -H "api_key:${wmatatoken}" \
     > stations.xml
