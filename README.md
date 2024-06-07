@@ -1,6 +1,6 @@
 # README
 I was annoyed at the WMATA fare lookup format so I made this to
-calculate fares for all combinations between a destination and
+calculate fares for all combinations between a starting station and
 all other stations.
 
 # Output
