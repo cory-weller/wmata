@@ -10,6 +10,8 @@ Tabular output of
 3. Distance (miles)
 4. Fare (US Dollars)
 
+Example for [North Bethesda](north_bethesda.tsv)
+
 # How to use
 Making calls to the WMATA API requires a developer token.
 Sign up [here](https://developer.wmata.com/) and save the token to a text file named `wmata-token.txt` as it's used by `curl` and by the `python` script.
