@@ -87,8 +87,8 @@ python3 get-trip-info.py "East Falls Church"
 python3 get-trip-info.py "West Falls Church"
 python3 get-trip-info.py "Dunn Loring-Merrifield"
 python3 get-trip-info.py "Vienna/Fairfax-GMU"
-python3 get-trip-info.py McLean
-python3 get-trip-info.py Tysons
+python3 get-trip-info.py "McLean"
+python3 get-trip-info.py "Tysons"
 python3 get-trip-info.py "Greensboro"
 python3 get-trip-info.py "Spring Hill"
 python3 get-trip-info.py "Wiehle-Reston East"
