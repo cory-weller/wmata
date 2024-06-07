@@ -45,7 +45,7 @@ python3 get-trip-info.py 'North Bethesda'
 readarray -t station_names < station-names.txt
 for station in ${station_names[@]}; do
     python3 get-trip-info.py $station
-done > all-station-info.tsv
+done
 ```
 
 
