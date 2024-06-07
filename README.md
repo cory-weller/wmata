@@ -10,7 +10,7 @@ Tabular output of
 3. Distance (miles)
 4. Fare (US Dollars)
 
-Example for [North Bethesda](north_bethesda.tsv)
+Example for [North Bethesda](North-Bethesda.tsv)
 
 # How to use
 Making calls to the WMATA API requires a developer token.
@@ -34,9 +34,12 @@ indicated in [`station-names.txt`](station-names.txt).
 
 API calls are intentionally slowed to avoid caps implemented by WMATA.
 
+Output table file names are in the format of `<starting station>.tsv`, with spaces or `/` characters with `-`. For example, running the script with `'Woodley Park-Zoo/Adams Morgan'` saves `Woodley-Park-Zoo-Adams-Morgan.tsv`
+
 ```bash
 # Get info for a single station
-python3 get-trip-info.py 'North Bethesda' > north_bethesda.tsv &
+python3 get-trip-info.py 'North Bethesda' 
+# S
 
 # Get info for all stations (will take a while)
 readarray -t station_names < station-names.txt

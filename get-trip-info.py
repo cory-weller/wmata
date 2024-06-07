@@ -28,7 +28,7 @@ def read_station_station_output(my_json):
     station2 = station_names[tripinfo['DestinationStation']]
     fare = tripinfo['RailFare']['PeakTime']
     distance = tripinfo['CompositeMiles']
-    return([station1, station2, distance, fare])
+    return((station1, station2, distance, fare))
 
 # Get all station info
 with open('stations.xml', 'r') as infile:
@@ -36,7 +36,12 @@ with open('stations.xml', 'r') as infile:
 
 stations = xmltodict.parse(xml_data)['StationsResp']['Stations']['Station']
 
+def sanitize(name):
+    name = name.replace('/', '-')
+    name = name.replace(' ', '-')
+    return(name)
 
+start_station_filename = sanitize(starting_station) + '.tsv'
 
 # Build dictionary for station name : code
 station_codes = {}
@@ -68,6 +73,8 @@ headers = {
 # Ensure starting station is valid name
 destinations = list(station_codes.values())
 
+out_table = []
+
 station1_code = station_codes[starting_station]
 # Collect station-to-station information
 station_station_data = []
@@ -84,10 +91,16 @@ for destination in destinations:
         data = data.decode()
         station_station_data.append(data)
         info = read_station_station_output(data)
-        print(f'%s\t%s\t%s\t%s' % tuple(info))
+        out_table.append(info)
+        #print( )
         conn.close()
     except Exception as e:
         print("[Errno {0}] {1}".format(e.errno, e.strerror))
 
 
-
+output_header = 'Start\tDestination\tDistance_mi\tFare_USD\n'
+with open(start_station_filename, 'w') as outfile:
+    outfile.write(output_header)
+    for info_line in out_table:
+        start, dest, dist, fare = info_line
+        outfile.write(f'{start}\t{dest}\t{dist:.2f}\t{fare:.2f}\n')
