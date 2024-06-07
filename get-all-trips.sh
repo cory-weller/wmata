@@ -99,5 +99,6 @@ python3 get-trip-info.py "Washington Dulles International Airport"
 python3 get-trip-info.py "Loudoun Gateway"
 python3 get-trip-info.py "Ashburn"
 
-cat *.tsv | sort -nk 1,2 > all-trips.tsv.tmp && \
+head -n 1 Ashburn.tsv > all-trips.tsv.tmp && \
+cat *.tsv | grep -v 'Fare_USD' | sort -nk 1,2 >> all-trips.tsv.tmp && \
 rm *.tsv && mv all-trips.tsv.tmp all-trips.tsv
